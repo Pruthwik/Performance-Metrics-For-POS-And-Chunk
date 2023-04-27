@@ -1,0 +1,13 @@
+              precision    recall  f1-score   support
+
+          NP       1.00      1.00      1.00        23
+          PP       1.00      1.00      1.00         5
+        SBAR       1.00      1.00      1.00         1
+          VP       1.00      1.00      1.00         8
+
+   micro avg       1.00      1.00      1.00        37
+   macro avg       1.00      1.00      1.00        37
+weighted avg       1.00      1.00      1.00        37
+
+Accuracy = 1.0
+Micro_F1 = 1.0
